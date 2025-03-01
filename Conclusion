@@ -1,0 +1,17 @@
+# Conclusion
+
+# Q1: What genres have the highest votes?
+# We have 25.5% of our dataset with popular votes (6520 rows).
+# Drama again gets the highest popularity among fans, 
+# with more than 18.5% of movies having high popularity.
+
+# Q2: What movie got the highest popularity? What's its genre?
+# 'Spider-Man: No Way Home' has the highest popularity rate in our dataset.
+# It belongs to the genres: Action, Adventure, and Science Fiction.
+
+# Q3: What movie got the lowest popularity? What's its genre?
+# 'The United States, Thread' has the lowest popularity rate in our dataset.
+# It belongs to the genres: Music, Drama, War, Sci-Fi, and History.
+
+# Q4: Which year has the most filmed movies?
+# The year 2020 has the highest filming rate in our dataset.
