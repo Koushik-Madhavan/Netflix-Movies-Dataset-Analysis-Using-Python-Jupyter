@@ -1,5 +1,3 @@
-# Netflix-Movies-Dataset-Analysis-Using-Python-Jupyter
---
 # Netflix Movies Dataset Analysis Using Python & Jupyter Notebook
 
 ## Overview
