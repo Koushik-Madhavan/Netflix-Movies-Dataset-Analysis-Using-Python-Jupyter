@@ -1,3 +1,3 @@
 **What is the most frequent genre of movies released on Netflix?**
-![Genre Analysis](C:\Users\Koushik\anaconda3\Lib\site-packages\seaborn\axisgrid.py:118: UserWarning: The figure layout has changed to tight
-  self._figure.tight_layout(*args, **kwargs))
+<img src="images/netflix_analysis.png" alt="Netflix Analysis" width="500">
+
