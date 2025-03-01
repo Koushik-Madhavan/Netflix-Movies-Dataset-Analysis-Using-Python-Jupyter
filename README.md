@@ -69,4 +69,4 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 **Koushik M**
 
 ---
-**GitHub Repository:** [Netflix-Movies-Dataset-Analysis-Using-Python-Jupyter](https://github.com/Koushik-Madhavan/Netflix-Movies-Dataset-Analysis-Using-Python-Jupyter)
+**GitHub Repository:** [Netflix-Movies-Dataset-Analysis-Using-Python-Jupyter](https://github.com/Koushik-Madhavan/Netflix-Movies-Dataset-Analysis-Using-Python-Jupyter/blob/main/Netflixmovies.ipynb)
